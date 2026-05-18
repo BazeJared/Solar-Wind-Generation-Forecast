@@ -93,9 +93,7 @@ def kelvin_to_celsius(temp_k):
     return temp_k - 273.15
 
 
-# ─────────────────────────────────────────────
-# 4. MAIN DATA COLLECTION LOOP
-# ─────────────────────────────────────────────
+
 
 def collect_hrrr_data(start_date, end_date, lat, lon, forecast_hour=1):
     records = []

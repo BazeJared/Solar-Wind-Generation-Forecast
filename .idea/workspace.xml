@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="997b5768-01e3-4a84-9eb6-317c40cd72f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Solar &amp; Wind Generation Forecast.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/01_data_exploration.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/02_feature_engineering.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/03_baseline_model.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/04_lstm_model.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/evaluate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/visualize.py" afterDir="false" />
-    </list>
+    <list default="true" id="997b5768-01e3-4a84-9eb6-317c40cd72f8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1779075377324</updated>
-      <workItem from="1779075378642" duration="1607000" />
+      <workItem from="1779075378642" duration="2390000" />
     </task>
     <servers />
   </component>
